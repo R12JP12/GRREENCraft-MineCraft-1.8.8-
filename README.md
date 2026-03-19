@@ -1,2 +1,2 @@
 # AstraClientEagler
-All Eaglercraft releases for Astra Client
+All Eaglercraft releases for GRREENCraft Client
