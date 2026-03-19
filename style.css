@@ -7,17 +7,17 @@
 }
 
 body {
-  background-color: #141414;
+  background-color: #ec5f11;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  color: #ffffff;
+  color: #ec5f11;
 }
 
 .launcher {
   width: 420px;
-  background: #1e1e1e;
+  background: #ec5f11;
   border-radius: 15px;
   overflow: hidden;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
